@@ -4,7 +4,7 @@ A compact, remote-access-first homelab built on repurposed consumer hardware. It
 
 > This repository is a sanitized portfolio view of a live system. Host addresses, account names, device identifiers, credentials, and private configuration are intentionally excluded.
 
-![Homelab architecture showing Telegram and model APIs connected through Hermes Agent to a Tailscale-protected Ubuntu host running Docker, Home Assistant, Jellyfin, and NVMe storage](docs/assets/homelab-architecture.jpg)
+![Homelab architecture showing Telegram and model APIs connected through Hermes Agent to a Tailscale-protected Ubuntu host running Docker, Home Assistant, Jellyfin, and NVMe storage](docs/assets/homelab-architecture-dark.jpg)
 
 ## At a glance
 
