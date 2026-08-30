@@ -1,0 +1,23 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.ovpn
+*.mobileconfig
+
+# Raw discovery output may contain addresses, identifiers, or usernames
+raw-inventory/
+inventory-private/
+*.inventory.json
+*.inventory.txt
+
+# Local tooling
+.DS_Store
+.idea/
+.vscode/
+
